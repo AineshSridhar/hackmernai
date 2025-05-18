@@ -1,5 +1,5 @@
 const {getMealPlanFromCohere} = require("../api/CohereClient");
-const {generateMealPlanPrompt} = require("./generateprompt");
+const {generateMealPlanPrompt} = require("./generatePrompt");
 
 async function generateMealPlan(input) {
     const formattedUser = {
