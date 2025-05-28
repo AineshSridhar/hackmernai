@@ -1,6 +1,6 @@
-# 🍽️ FoodMind – AI-Powered Diet Buddy
+# 🍽️ NutriAI – AI-Powered Diet Buddy
 
-**FoodMind** is your intelligent diet companion. Just input your eating habits, dietary restrictions, and personal health goals—our AI does the rest! Get a personalized meal plan and shopping list based on real food data to help you stay healthy and on track.
+**NutriAI** is your intelligent diet companion. Just input your eating habits, dietary restrictions, and personal health goals—our AI does the rest! Get a personalized meal plan and shopping list based on real food data to help you stay healthy and on track.
 
 ---
 
